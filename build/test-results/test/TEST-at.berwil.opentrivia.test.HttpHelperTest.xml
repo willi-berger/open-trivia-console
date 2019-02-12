@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="at.berwil.opentrivia.test.HttpHelperTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-02-10T15:24:16" hostname="LAPTOP-6NBFVRQP" time="0.976">
-  <properties/>
-  <testcase name="test" classname="at.berwil.opentrivia.test.HttpHelperTest" time="0.976"/>
-  <system-out><![CDATA[16:24:17.152 [Test worker] INFO  a.b.o.client.HttpHelperSynchroneous - build request and invoke URL: https://raw.github.com/square/okhttp/master/README.md
-]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
