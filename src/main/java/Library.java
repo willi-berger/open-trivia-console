@@ -14,6 +14,6 @@ public class Library {
     
     public int add(int a, int b) {
     	LOG.info("add(" + a + "," + b + ")");
-    	return a+b+2;
+    	return a+b*6;
     }
 }
