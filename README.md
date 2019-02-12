@@ -1,6 +1,6 @@
 # open-trivia-console
 Java console application for an OpenTriva based quiz game. Made as preparation for an Android Quiz app projects.
-Uses the OpenTrivia API https://opentdb.com/ to implment a simple console based quiz game
+Uses the OpenTrivia API https://opentdb.com/ to implement a simple console based quiz game
 
 
 Prerequisites
@@ -8,3 +8,6 @@ Prerequisites
 * eclipse Gradle Plugin
 
 
+ToDos:
+-
+* Unit tests use real http client and real API URLs - use a mock
