@@ -5,7 +5,7 @@ Uses the OpenTrivia API https://opentdb.com/ to implement a simple console based
 
 
 ## Prerequisites
-* eclipse Jaba IDE
+* eclipse Java IDE
 * eclipse Gradle Plugin
 
 
